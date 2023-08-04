@@ -30,5 +30,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/MarckWeb)
-- Linkedin [@your-twitter](https://www.linkedin.com/in/david-marca/)
+- GitHub [@david](https://github.com/MarckWeb)
+- Linkedin [@ydavid](https://www.linkedin.com/in/david-marca/)
